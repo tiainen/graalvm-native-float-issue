@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Simple",
+    "methods": [
+      { "name": "<init>", "parameterTypes": ["boolean", "char", "byte", "int", "long", "double", "float", "short"] }
+    ]
+  }
+]
